@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rootcert.net</title>
+    <link>https://blog.rootcert.net/</link>
+    <description>Recent content on rootcert.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 06:42:58 -0300</lastBuildDate><atom:link href="https://blog.rootcert.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Public Keys</title>
+      <link>https://blog.rootcert.net/posts/pubkeys/</link>
+      <pubDate>Mon, 16 Nov 2020 06:42:58 -0300</pubDate>
+      
+      <guid>https://blog.rootcert.net/posts/pubkeys/</guid>
+      <description>Public keys You can obtain a copy of my public keys used to sign any releases of software I release over at: https://x.rootcert.net/pubkeys/pgp.asc for pgp or https://x.rootcert.net/pubkeys/minisign.pub for minisign.
+Be sure to obtain the keys only from these two URLs!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = "https://blog.rootcert.net"
+languageCode = "en-us"
+title = "rootcert.net"
+theme = "papermod"
